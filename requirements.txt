@@ -1,0 +1,11 @@
+opencv-python
+firebase-admin
+pyttsx3
+facenet-pytorch
+pandas
+numpy
+pyqt5
+yagmail
+torch
+torchvision
+face_recognition
